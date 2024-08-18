@@ -4,7 +4,7 @@
 
 #### I'm a Front-End React Developer, from India...A creative Front-End Developer on a journey to shape the digital world with code and design.
 
-## Join me as I explore the art of web development and create captivating online experiences. Let's code, learn, and innovate together!
+#### Join me as I explore the art of web development and create captivating online experiences. Let's code, learn, and innovate together!
 
 <div align="center">
   <a href="https://www.instagram.com/arunboy00?igsh=azh3ODRjZWVqbTEx" target="_blank">
